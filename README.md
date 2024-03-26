@@ -1,15 +1,13 @@
 <h1>Fasih M.</h1>
 
----
-
 <p align="left">
-<a href="https://www.credly.com/badges/67a71d7f-cd1e-4a5d-a36e-4e0c8b4b866e/public_url" target="_blank">
-    <img src="https://img.shields.io/badge/AWS-Certified-3A3BF7" alt="Cloud Architect">
-</a>
-<img src="https://img.shields.io/badge/Cloud-Architect-FF9900" alt="Cloud Architect">
-<img src="https://img.shields.io/badge/Dev-JavaScript-F0DB4F" alt="JS Developer">
-<img src="https://img.shields.io/badge/Dev-TypeScript-3075C0" alt="TS Developer">
-<img src="https://img.shields.io/badge/Data-Scientist-CE0B0C" alt="Data Scientist">
+    <a href="https://www.credly.com/badges/67a71d7f-cd1e-4a5d-a36e-4e0c8b4b866e/public_url" target="_blank">
+        <img src="https://img.shields.io/badge/AWS-Certified-3A3BF7" alt="Cloud Architect">
+    </a>
+    <img src="https://img.shields.io/badge/Cloud-Architect-FF9900" alt="Cloud Architect">
+    <img src="https://img.shields.io/badge/Dev-JavaScript-F0DB4F" alt="JS Developer">
+    <img src="https://img.shields.io/badge/Dev-TypeScript-3075C0" alt="TS Developer">
+    <img src="https://img.shields.io/badge/Data-Scientist-CE0B0C" alt="Data Scientist">
 </p>
 
 <table border="0">
@@ -33,6 +31,8 @@
     </td>
   </tr>
 </table>
+
+<br/>
 
 <h3>💻 Tools & Technologies</h3>
 <hr>
@@ -141,33 +141,53 @@
 
 [//]: # (<img src="https://img.shields.io/badge/Masters-Artificial%20Intelligence-FFF" alt="MSc">)
 
+<br/>
+
 <h3>📃 Certifications & Achievements</h3>
+<hr>
+<table>
+    <tr>
+        <td>
+            <a href="https://www.credly.com/badges/67a71d7f-cd1e-4a5d-a36e-4e0c8b4b866e/public_url" target="_blank">
+                <img src="./assets/img/aws-certified-solutions-architect-associate.png" height="150" alt="AWS Certified - Solutions Architect Associate">
+            </a>
+        </td>
+        <td>
+            <img src="./assets/img/google1.png" height="150" alt="Generative AI Fundamentals">
+        </td>
+        <td>
+            <img src="./assets/img/google2.png" height="150" alt="Data, ML, and AI Tasks">
+        </td>
+        <td>
+            <img src="./assets/img/google6.png" height="150" alt="Networks in Google Cloud">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="./assets/img/google3.png" height="150" alt="Cloud Architecture">
+        </td>
+        <td>
+            <img src="./assets/img/google4.png" height="150" alt="Serverless Firebase Development">
+        </td>
+        <td>
+            <img src="./assets/img/google5.png" height="150" alt="Serverless Cloud Run Development">
+        </td>
+        <td>
+            <img src="./assets/img/google7.png" height="150" alt="Serverless Cloud Run Development">
+        </td>
+    </tr>
+</table>
 
----
-
-<p align="left" style="margin: 0">
-    <a href="https://www.credly.com/badges/67a71d7f-cd1e-4a5d-a36e-4e0c8b4b866e/public_url" target="_blank">
-        <img src="./assets/img/aws-certified-solutions-architect-associate.png" height="150" alt="AWS Certified - Solutions Architect Associate">
-    </a>
-    <img src="./assets/img/google1.png" height="150" alt="Generative AI Fundamentals">
-    <img src="./assets/img/google2.png" height="150" alt="Data, ML, and AI Tasks">
-    <img src="./assets/img/google6.png" height="150" alt="Networks in Google Cloud">
-    <img src="./assets/img/google4.png" height="150" alt="Serverless Firebase Development">
-    <img src="./assets/img/google5.png" height="150" alt="Serverless Cloud Run Development">
-    <img src="./assets/img/google3.png" height="150" alt="Cloud Architecture">
-</p>
+<br/>
 
 <h3>👾 GitHub Stats</h3>
-
----
-
+<hr>
 <p align="left" style="margin: 0">
     <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DICOT4&layout=compact&hide=c%23,CSS,SCSS,ASP,Objective-C" alt="Most Used Languages" />
     <img height="150" src="https://github-readme-stats-ebon-seven-19.vercel.app/api?username=DICOT4&show_icons=true&hide=stars&locale=en&rank_icon=github&hide_rank=true" alt="GitHub Stats">
 </p>
 
----
-
+<hr>
 <p align="left" style="margin: 0">
     <img src="https://forthebadge.com/images/badges/designed-in-ms-paint.svg" alt="Designed in MS Paint">
     <img src="https://forthebadge.com/images/badges/made-with-reason.svg" alt="Made with Reason">
