@@ -1,8 +1,9 @@
 <h1>Fasih M.</h1>
-<hr style="margin-top: 0">
+
 <a href="https://www.credly.com/badges/67a71d7f-cd1e-4a5d-a36e-4e0c8b4b866e/public_url" target="_blank">
     <img src="https://img.shields.io/badge/AWS-Certified-3A3BF7" alt="Cloud Architect">
 </a>
+
 <img src="https://img.shields.io/badge/Cloud-Architect-FF9900" alt="Cloud Architect">
 <img src="https://img.shields.io/badge/Dev-JavaScript-F0DB4F" alt="JS Developer">
 <img src="https://img.shields.io/badge/Dev-TypeScript-3075C0" alt="TS Developer">
@@ -14,10 +15,10 @@
     <p>Hi, there! 👋 I'm a passionate Solutions Architect and AWS Certified Professional, specialising in cloud-native solutions and JS/TS/Python development, including monolithic, serverless, and micro-services architecture. Proven track record in seamlessly transitioning on-premises applications to AWS and GCP, with a focus on scalability, availability, and security. Blockchain enthusiast with expertise in Solidity and ERC standards. Skilled in UI development, third-party library integration, and state management, and adept in database technologies.</p>
     <p style="font-weight: bold">Let's architect your success in the cloud era! 🚀</p>
 <a href="https://www.linkedin.com/in/fasih-malik/" target="_blank">
-    <img src=" https://img.shields.io/badge/Connect%20on%20LinkedIn-196BC3?logo=linkedin" alt="Data Scientist"/>
+    <img src=" https://img.shields.io/badge/Connect%20on%20LinkedIn-196BC3?logo=linkedin" alt="LinkedIn"/>
 </a>
 <a href="mailto:fasihrehman.malik@gmail.com" target="_blank">
-    <img src=" https://img.shields.io/badge/Drop%20an%20Email-FFF?logo=gmail" alt="Data Scientist"/>
+    <img src=" https://img.shields.io/badge/Drop%20an%20Email-FFF?logo=gmail" alt="Gmail"/>
 </a> 
     </td>
     <td width="20%">
