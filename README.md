@@ -10,7 +10,7 @@
 
 [//]: # (<h6>Cloud Architect | JS/TS Developer | Data Scientist</h6>)
 <a href="https://www.credly.com/badges/67a71d7f-cd1e-4a5d-a36e-4e0c8b4b866e/public_url" target="_blank">
-    <img src=" https://img.shields.io/badge/AWS-Certified-3A3BF7" alt="Cloud Architect">
+    <img src="https://img.shields.io/badge/AWS-Certified-3A3BF7" alt="Cloud Architect">
 </a>
 <img src="https://img.shields.io/badge/Cloud-Architect-FF9900" alt="Cloud Architect">
 <img src="https://img.shields.io/badge/Dev-JavaScript-F0DB4F" alt="JS Developer">
