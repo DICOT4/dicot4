@@ -1,5 +1,7 @@
 <h1>Fasih M.</h1>
 
+---
+
 <p align="left">
 <a href="https://www.credly.com/badges/67a71d7f-cd1e-4a5d-a36e-4e0c8b4b866e/public_url" target="_blank">
     <img src="https://img.shields.io/badge/AWS-Certified-3A3BF7" alt="Cloud Architect">
@@ -33,6 +35,7 @@
 </table>
 
 <h3>💻 Tools & Technologies</h3>
+<hr>
 
 <h5>Cloud Platforms</h5>
 <p align="left" style="margin: 0">
@@ -140,6 +143,8 @@
 
 <h3>📃 Certifications & Achievements</h3>
 
+---
+
 <p align="left" style="margin: 0">
     <a href="https://www.credly.com/badges/67a71d7f-cd1e-4a5d-a36e-4e0c8b4b866e/public_url" target="_blank">
         <img src="./assets/img/aws-certified-solutions-architect-associate.png" height="150" alt="AWS Certified - Solutions Architect Associate">
@@ -154,12 +159,15 @@
 
 <h3>👾 GitHub Stats</h3>
 
+---
+
 <p align="left" style="margin: 0">
     <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DICOT4&layout=compact&hide=c%23,CSS,SCSS,ASP,Objective-C" alt="Most Used Languages" />
     <img height="150" src="https://github-readme-stats-ebon-seven-19.vercel.app/api?username=DICOT4&show_icons=true&hide=stars&locale=en&rank_icon=github&hide_rank=true" alt="GitHub Stats">
 </p>
 
-<hr/>
+---
+
 <p align="left" style="margin: 0">
     <img src="https://forthebadge.com/images/badges/designed-in-ms-paint.svg" alt="Designed in MS Paint">
     <img src="https://forthebadge.com/images/badges/made-with-reason.svg" alt="Made with Reason">
