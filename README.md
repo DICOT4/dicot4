@@ -16,15 +16,15 @@
     <p>Hi, there! 👋 I'm a passionate Solutions Architect and AWS Certified Professional, specialising in cloud-native solutions and JS/TS/Python development, including monolithic, serverless, and micro-services architecture. Proven track record in seamlessly transitioning on-premises applications to AWS and GCP, with a focus on scalability, availability, and security. Blockchain enthusiast with expertise in Solidity and ERC standards. Skilled in UI development, third-party library integration, and state management, and adept in database technologies.</p>
     <p style="font-weight: bold">Let's architect your success in the cloud era! 🚀</p>
 <a href="https://www.linkedin.com/in/fasih-malik/" target="_blank">
-    <img src=" https://img.shields.io/badge/Connect%20on%20LinkedIn-196BC3?logo=linkedin" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-196BC3?logo=linkedin" alt="LinkedIn"/>
 </a>
 <a href="mailto:fasihrehman.malik@gmail.com" target="_blank">
-    <img src=" https://img.shields.io/badge/Drop%20an%20Email-FFF?logo=gmail" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Drop%20an%20Email-FFF?logo=gmail" alt="Gmail"/>
 </a> 
     </td>
     <td width="20%">
         <div align="center">
-            <img src="./assets/img/me.png" height="100" width="auto" alt="Memoji">
+            <img src="./assets/img/me.png" height="150" width="auto" alt="Memoji">
             <br/>
             <img src="https://komarev.com/ghpvc/?username=DICOT4&abbreviated=true" height="20" alt="Profile Views">
         </div>
@@ -142,21 +142,21 @@
 
 <p align="left" style="margin: 0">
     <a href="https://www.credly.com/badges/67a71d7f-cd1e-4a5d-a36e-4e0c8b4b866e/public_url" target="_blank">
-        <img src="./assets/img/aws-certified-solutions-architect-associate.png" height="100" alt="AWS Certified - Solutions Architect Associate">
+        <img src="./assets/img/aws-certified-solutions-architect-associate.png" height="150" alt="AWS Certified - Solutions Architect Associate">
     </a>
-    <img src="./assets/img/google1.png" height="100" alt="Generative AI Fundamentals">
-    <img src="./assets/img/google2.png" height="100" alt="Data, ML, and AI Tasks">
-    <img src="./assets/img/google6.png" height="100" alt="Networks in Google Cloud">
-    <img src="./assets/img/google4.png" height="100" alt="Serverless Firebase Development">
-    <img src="./assets/img/google5.png" height="100" alt="Serverless Cloud Run Development">
-    <img src="./assets/img/google3.png" height="100" alt="Cloud Architecture">
+    <img src="./assets/img/google1.png" height="150" alt="Generative AI Fundamentals">
+    <img src="./assets/img/google2.png" height="150" alt="Data, ML, and AI Tasks">
+    <img src="./assets/img/google6.png" height="150" alt="Networks in Google Cloud">
+    <img src="./assets/img/google4.png" height="150" alt="Serverless Firebase Development">
+    <img src="./assets/img/google5.png" height="150" alt="Serverless Cloud Run Development">
+    <img src="./assets/img/google3.png" height="150" alt="Cloud Architecture">
 </p>
 
 <h3>👾 GitHub Stats</h3>
 
 <p align="left" style="margin: 0">
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DICOT4&layout=compact&hide=c%23,CSS,SCSS,ASP,Objective-C" alt="Most Used Languages" />
-    <img height="200" src="https://github-readme-stats-ebon-seven-19.vercel.app/api?username=DICOT4&show_icons=true&hide=stars&locale=en&rank_icon=github" alt="GitHub Stats">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DICOT4&layout=compact&hide=c%23,CSS,SCSS,ASP,Objective-C" alt="Most Used Languages" />
+    <img height="150" src="https://github-readme-stats-ebon-seven-19.vercel.app/api?username=DICOT4&show_icons=true&hide=stars&locale=en&rank_icon=github&hide_rank=true" alt="GitHub Stats">
 </p>
 
 <hr/>
