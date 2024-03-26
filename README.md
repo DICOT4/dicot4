@@ -1,14 +1,5 @@
-<div style="float: right">
-<img src="./assets/img/me.png" height="100" alt="Memoji">
-<br/>
-<img src="https://komarev.com/ghpvc/?username=DICOT4&abbreviated=true" height="20" alt="Profile Views">
-</div>
-
-
 <h1>Fasih M.</h1>
-<hr style="width: 50%; margin-top: 0">
-
-[//]: # (<h6>Cloud Architect | JS/TS Developer | Data Scientist</h6>)
+<hr style="margin-top: 0">
 <a href="https://www.credly.com/badges/67a71d7f-cd1e-4a5d-a36e-4e0c8b4b866e/public_url" target="_blank">
     <img src="https://img.shields.io/badge/AWS-Certified-3A3BF7" alt="Cloud Architect">
 </a>
@@ -17,16 +8,27 @@
 <img src="https://img.shields.io/badge/Dev-TypeScript-3075C0" alt="TS Developer">
 <img src="https://img.shields.io/badge/Data-Scientist-CE0B0C" alt="Data Scientist">
 
-<p>
-Hi, there! 👋 I'm a passionate Solutions Architect and AWS Certified Professional, specialising in cloud-native solutions and JS/TS/Python development, including monolithic, serverless, and micro-services architecture. Proven track record in seamlessly transitioning on-premises applications to AWS and GCP, with a focus on scalability, availability, and security. Blockchain enthusiast with expertise in Solidity and ERC standards. Skilled in UI development, third-party library integration, and state management, and adept in database technologies.
-</p>
-<p style="font-weight: bold">Let's architect your success in the cloud era! 🚀</p>
-
+<table border="0">
+  <tr>
+    <td width="80%">
+    <p>Hi, there! 👋 I'm a passionate Solutions Architect and AWS Certified Professional, specialising in cloud-native solutions and JS/TS/Python development, including monolithic, serverless, and micro-services architecture. Proven track record in seamlessly transitioning on-premises applications to AWS and GCP, with a focus on scalability, availability, and security. Blockchain enthusiast with expertise in Solidity and ERC standards. Skilled in UI development, third-party library integration, and state management, and adept in database technologies.</p>
+    <p style="font-weight: bold">Let's architect your success in the cloud era! 🚀</p>
 <a href="https://www.linkedin.com/in/fasih-malik/" target="_blank">
-    <img src=" https://img.shields.io/badge/Connect%20on%20LinkedIn-196BC3?logo=linkedin" alt="Data Scientist">
-</a><a href="mailto:fasihrehman.malik@gmail.com" target="_blank">
-    <img src=" https://img.shields.io/badge/Drop%20an%20Email-FFF?logo=gmail" alt="Data Scientist">
+    <img src=" https://img.shields.io/badge/Connect%20on%20LinkedIn-196BC3?logo=linkedin" alt="Data Scientist"/>
 </a>
+<a href="mailto:fasihrehman.malik@gmail.com" target="_blank">
+    <img src=" https://img.shields.io/badge/Drop%20an%20Email-FFF?logo=gmail" alt="Data Scientist"/>
+</a> 
+    </td>
+    <td width="20%">
+        <div align="center">
+            <img src="./assets/img/me.png" height="100" width="auto" alt="Memoji">
+            <br/>
+            <img src="https://komarev.com/ghpvc/?username=DICOT4&abbreviated=true" height="20" alt="Profile Views">
+        </div>
+    </td>
+  </tr>
+</table>
 
 <h3>💻 Tools & Technologies</h3>
 <hr style="margin-top: 0">
@@ -108,8 +110,11 @@ Hi, there! 👋 I'm a passionate Solutions Architect and AWS Certified Professio
 <img src="https://img.shields.io/badge/macOS-FFF?logo=macos&logoColor=black" alt="macOS">
 
 [//]: # (<h3>🎓 Education</h3>)
+
 [//]: # (<hr style="margin-top: 0">)
+
 [//]: # (<img src="https://img.shields.io/badge/Bachelors-Software%20Engineering-FFF" alt="BS">)
+
 [//]: # (<img src="https://img.shields.io/badge/Masters-Artificial%20Intelligence-FFF" alt="MSc">)
 
 <h3>📃 Certifications & Achievements</h3>
