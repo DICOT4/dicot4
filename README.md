@@ -34,10 +34,10 @@
 
 <br/>
 
-<h3>💻 Tools & Technologies</h3>
+<h2>💻 Tools & Technologies</h2>
 <hr>
 
-<h5>Cloud Platforms</h5>
+<h4>Cloud Platforms</h4>
 <p align="left" style="margin: 0">
     <img src="https://img.shields.io/badge/Amazon%20Web%20Services-FFF?logo=amazon-aws&logoColor=FF9900" alt="AWS">
     <img src="https://img.shields.io/badge/Google%20Cloud%20Platform-FFF?logo=google-cloud" alt="AWS">
@@ -47,7 +47,7 @@
     <img src="https://img.shields.io/badge/Heroku-FFF?logo=heroku&logoColor=purple" alt="Heroku">
 </p>
 
-<h5>Languages</h5>
+<h4>Languages</h4>
 <p align="left" style="margin: 0">
     <img src="https://img.shields.io/badge/JavaScript-FFF?logo=javascript" alt="JavaScript">
     <img src="https://img.shields.io/badge/TypeScript-FFF?logo=typescript" alt="TypeScript">
@@ -55,7 +55,7 @@
     <img src="https://img.shields.io/badge/Solidity-FFF?logo=solidity&logoColor=black" alt="Solidity">
 </p>
 
-<h5>Frameworks & Libraries</h5>
+<h4>Frameworks & Libraries</h4>
 <p align="left" style="margin: 0">
     <img src="https://img.shields.io/badge/React-FFF?logo=react" alt="React">
     <img src="https://img.shields.io/badge/Next.js-FFF?logo=nextdotjs&logoColor=black" alt="Next">
@@ -92,7 +92,7 @@
     <img src="https://img.shields.io/badge/Web3-FFF?logo=web3dotjs" alt="Web3">
 </p>
 
-<h5>Data - Store, Cache & Analytics</h5>
+<h4>Data - Store, Cache & Analytics</h4>
 <p align="left" style="margin: 0">
     <img src="https://img.shields.io/badge/MySQL-FFF?logo=mysql" alt="MySQL">
     <img src="https://img.shields.io/badge/PostgreSQL-FFF?logo=postgresql" alt="PostgreSQL">
@@ -113,7 +113,7 @@
 <img src="https://img.shields.io/badge/Kibana-FFF?logo=kibana&logoColor=black" alt="Kibana">
 </p>
 
-<h5>Tools</h5>
+<h4>Tools</h4>
 <p align="left" style="margin: 0">
     <img src="https://img.shields.io/badge/Docker-FFF?logo=docker" alt="Docker">
     <img src="https://img.shields.io/badge/Postman-FFF?logo=postman" alt="Postman">
@@ -133,7 +133,7 @@
     <img src="https://img.shields.io/badge/macOS-FFF?logo=macos&logoColor=black" alt="macOS">
 </p>
 
-[//]: # (<h3>🎓 Education</h3>)
+[//]: # (<h2>🎓 Education</h2>)
 
 [//]: # (<hr style="margin-top: 0">)
 
@@ -143,7 +143,7 @@
 
 <br/>
 
-<h3>📃 Certifications & Achievements</h3>
+<h2>📃 Certifications & Achievements</h2>
 <hr>
 <table>
     <tr>
@@ -180,7 +180,7 @@
 
 <br/>
 
-<h3>👾 GitHub Stats</h3>
+<h2>👾 GitHub Stats</h2>
 <hr>
 <p align="left" style="margin: 0">
     <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DICOT4&layout=compact&hide=c%23,CSS,SCSS,ASP,Objective-C" alt="Most Used Languages" />
